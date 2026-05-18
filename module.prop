@@ -1,6 +1,6 @@
 id=FstrimAc
 name=Fstrim Ac
-version=v0.2
-versionCode=02
+version=v0.3
+versionCode=03
 author=GreyLeshy | fork by ClotiusB
 description=fstrim restores the write speed of internal memory
